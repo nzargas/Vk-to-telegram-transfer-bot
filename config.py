@@ -23,7 +23,7 @@ def initConfig():
 
 	setCell( "vk_AddFriends", False ) # Автоматически добавлять новых пользователей в друзья?
 	setCell( "vk_markAsReadEverything", False) # Помечать прочитанными все сообщения?
-	setCell( "vk_login", "78005553535" ) # Логин от аккаунта ВК
+	setCell( "vk_login", "89274810771" ) # Логин от аккаунта ВК
 	setCell( "vk_password", "Password" ) # Пароль от аккаунта ВК
 
 	setCell( "app_id", 2685278 ) # Приложение, у которого есть доступ взаимодействовать с ВК
